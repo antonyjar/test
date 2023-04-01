@@ -1,0 +1,44 @@
+@media screen and (max-width:1002px){
+    .navbar{
+        position: relative;
+    }
+    .menu{
+        display: none;
+    }
+    .logo{
+        margin:0;
+        text-align:center;
+    }
+    .header{
+        padding-top:20px;
+        flex-flow: wrap;
+    }
+
+    .headline{
+        flex:100%;
+        margin:5%;
+        text-align:center;
+    }
+    .headline p{
+        text-align:center;
+    }
+
+    .imghead{
+        flex:100%;
+        margin:1%;
+        text-align:center;
+    }
+
+    .cartao{
+        width: 90%;
+    }
+    
+    .box{
+        display: none;
+    }
+
+    .negoc{
+        padding-top: 0;
+        margin-top: 0;
+    }
+}
